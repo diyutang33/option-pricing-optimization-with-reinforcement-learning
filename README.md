@@ -1,0 +1,1 @@
+Machine learning project in exploring how reinforcement learning can be used to generate a trading strategy that would maximum profits given historical option pricing of a stock. This is merely an optimization problem, not future pricing prediction.
